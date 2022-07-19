@@ -26,3 +26,17 @@ button:hover{
     cursor: pointer;
     opacity: 0.8;
 }
+
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li a{
+    color: #5f9341;
+}
+
+li{
+    margin-top: 20px;
+}
